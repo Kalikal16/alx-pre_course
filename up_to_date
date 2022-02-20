@@ -1,11 +1,1 @@
-cd
-ls
-cd workshop
-ls
-cd alx-pre_course
-ls
-cd 0x01-git
-vi up_to_date
-git add .
-git commit -m "How to be up to date in git"
-git push
+emptyfile.txt
