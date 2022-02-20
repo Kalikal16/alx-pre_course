@@ -5,8 +5,7 @@ ls
 cd alx-pre_course
 ls
 cd 0x01-git
-touch up_to_date
-cat up_to_date
+vi up_to_date
 git add .
 git commit -m "How to be up to date in git"
 git push
