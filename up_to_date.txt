@@ -1,1 +1,1 @@
-root@66ffb2a93cc0:~/workspace/alx-pre_course# touch up_to_date.txt
+git pull
